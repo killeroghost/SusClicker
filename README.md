@@ -1,4 +1,4 @@
-# CSGO-Case-Clicker
+# CSGO-Sus-Clicker
 
 The oringinal CSGO case clicker: https://kingofkfcjamal.github.io/CaseClicker
 
