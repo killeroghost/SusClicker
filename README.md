@@ -1,6 +1,6 @@
 # CSGO-Sus-Clicker
 
-The oringinal CSGO case clicker: https://kingofkfcjamal.github.io/CaseClicker
+The original CSGO case clicker: https://kingofkfcjamal.github.io/CaseClicker
 
 This is a rip off of csgo clicker made by killeroghost
 
